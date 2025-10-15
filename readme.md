@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Matías Jodoco García Andrade
+- **Carrera**: Ingeniería de Software
+- **Fecha de entrega**: 16 de octubre del 2025
 
 ---
 
